@@ -1,11 +1,11 @@
 # 👋 Hi, I'm SHADOW
-**Full Stack Developer** • UTTRAKHAND • [shadowgaming1856@gmail.com](mailto:shadowgaming1856@gmail.com)
+**Begginer Developer** • UTTRAKHAND • [shadowgaming1856@gmail.com](mailto:shadowgaming1856@gmail.com)
 
 [![GitHub followers](https://img.shields.io/github/followers/SHADOWISHERE001?label=Followers)](https://github.com/SHADOWISHERE001)
 [![Stars](https://img.shields.io/github/stars/SHADOWISHERE001?label=Stars)](https://github.com/SHADOWISHERE001?tab=repositories)
 
 ## 🚀 About Me
-Passionate developer with 3+ years building scalable web apps. Love React, Node.js, and cloud architecture.
+Passionate developer. Love python and cloud architecture.
 
 ## 🛠️ Skills
 | Frontend | Backend | DevOps | Database |
