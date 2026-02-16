@@ -10,7 +10,7 @@ Passionate developer with 3+ years building scalable web apps. Love React, Node.
 ## 🛠️ Skills
 | Frontend | Backend | DevOps | Database |
 |----------|---------|--------|----------|
-| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript) | ! ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker) ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws) |  ![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat&logo=postgresql) |
+| ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=white) ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript) |  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python) | ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker) ![AWS](https://img.shields.io/badge/-AWS-FF9900?style=flat&logo=amazon-aws) |  ![MySQL](https://img.shields.io/badge/-MySQL-336791?style=flat&logo=postgresql) |
 
 ## 💼 Experience
 ###  • Begginer Developer 
