@@ -25,5 +25,4 @@ Passionate developer with 3+ years building scalable web apps. Love React, Node.
 ---
 ⭐ Star this repo & follow me for more!
 
-navigator.clipboard.writeText(resume).then(()=>console.log('%c✅ Copied to clipboard!', 'color:#10b981;font-size:16px'));
-})();
+
